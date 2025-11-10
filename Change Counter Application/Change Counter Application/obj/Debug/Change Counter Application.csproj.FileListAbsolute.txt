@@ -1,0 +1,10 @@
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\bin\Debug\Change Counter Application.exe.config
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\bin\Debug\Change Counter Application.exe
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\bin\Debug\Change Counter Application.pdb
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.csproj.AssemblyReference.cache
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change_Counter_Application.Form1.resources
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change_Counter_Application.Properties.Resources.resources
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.csproj.GenerateResource.cache
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.csproj.CoreCompileInputs.cache
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.exe
+C:\Users\nuzzi\source\repos\Change Counter Application\Change Counter Application\obj\Debug\Change Counter Application.pdb
